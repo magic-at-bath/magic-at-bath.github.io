@@ -1,14 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Multimodal Analysis, Generation and InteraCtion Research Group at Bath
+date: 2024-10-29
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        MAGIc@Bath
         Research Group
       image:
         filename: welcome.jpg
