@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Multimodal Analysis, Generation and InteraCtion research group at Bath** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2020.
+        The **Multimodal Analysis, Generation and InteraCtion research group at Bath** is a center of excellence for Visual Computing and Artificial Intelligence research, teaching, and practice. More about our projects can be seen [here](https://magic-at-bath.github.io/project)
   
   - block: collection
     content:
